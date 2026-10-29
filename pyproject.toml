@@ -1,7 +1,7 @@
 [project]
 name = "dnagenotek-python"
 version = "0.1.0"
-description = "Altissimo Python client for dnagenotek-python"
+description = "Python client for the DNA Genotek sample-kit API: create and look up outbound/return orders, and generate carrier tracking URLs."
 readme = "README.md"
 license = "Apache-2.0"
 requires-python = ">=3.11"
